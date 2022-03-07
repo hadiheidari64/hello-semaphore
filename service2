@@ -1,0 +1,5 @@
+ mkdir service1 service2
+$ touch service1/README.md service2/README.md
+$ git add .
+$ git commit -m "create dummy services"
+$ git push
